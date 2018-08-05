@@ -1,3 +1,11 @@
+# Why I need this ? (Use cases)
+```
+If you use CKEditor in one of the node js templates 
+or
+As independent html file 
+
+```
+
 # Demo screenshots
 ## Editor in action
 
